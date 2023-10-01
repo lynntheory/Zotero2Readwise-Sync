@@ -1,4 +1,4 @@
-name: Zotero to Readwise Automation
+name: Zotero to Readwise Automation 
 
 on:
   push:
